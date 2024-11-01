@@ -57,6 +57,7 @@ function IMCCalculator() {
       <button onClick={calcularIMC}>Calcular IMC</button>
       {resultado && (
         <div style={{ marginTop: '20px' }}>
+          
           <h2>Resultado</h2>
           <p>IMC: {resultado.imc}</p>
           <p>Classificação: {resultado.classificacao}</p>

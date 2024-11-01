@@ -6,6 +6,7 @@
   color-scheme: light dark;
   color: rgba(144, 77, 151, 0.968);
   background-color: #c4a5c4;
+  
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
@@ -23,7 +24,11 @@ body {
 }
 
 h1 {
-  font-size: 3.2em;
-  line-height: 1.1;
+  margin-right: 20px;
+    font-size: 40px;
+    color: rgb(219, 149, 216);
+    text-decoration: none;
+    text-align: center;
+    margin-top: space-between;
+    
 }
-

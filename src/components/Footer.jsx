@@ -6,6 +6,7 @@ function Footer() {
      textAlign: 'center',
      padding: '20px', 
      marginTop: '30px'
+     
      }}>
 
       <p>Desenvolvido por Laíssa Neves *-* </p>
